@@ -9,7 +9,6 @@ Ce logiciel permet la **gestion centralisée des livraisons entre des entreprise
 - **Créer des paniers contenant des produits.**  
 - **Assigner des livreurs à des entreprises.**  
 - **Suivre les livraisons et leurs statuts.**  
-- **Gérer les commentaires liés aux livraisons.**
 
 ---
 
